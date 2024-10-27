@@ -1,0 +1,302 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/nuriagonzalezdeubieta/Desktop/Carpeta TIPO/Document fonts/AdobeFnt22.lst
+FileLength:6533
+FileModTime:663760192
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/nuriagonzalezdeubieta/Desktop/Carpeta TIPO/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:217280
+FileModTime:470821988
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Verlag-Black
+FamilyName:Verlag
+StyleName:Black
+MenuName:Verlag Black
+StyleBits:0
+WeightClass:450
+WidthClass:5
+AngleClass:0
+FullName:Verlag Black
+WritingScript:Roman
+OutlineFileName:/Users/nuriagonzalezdeubieta/Desktop/Carpeta TIPO/Document fonts/Verlag-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:163884
+FileModTime:208881714
+NameArray:0,Mac,4,Verlag Black
+NameArray:0,Win,1,Verlag Black
+NameArray:0,Win,16,Verlag
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Verlag-BlackItalic
+FamilyName:Verlag
+StyleName:Black Italic
+MenuName:Verlag Black
+StyleBits:1
+WeightClass:450
+WidthClass:5
+AngleClass:1
+FullName:Verlag Black Italic
+WritingScript:Roman
+OutlineFileName:/Users/nuriagonzalezdeubieta/Desktop/Carpeta TIPO/Document fonts/Verlag-BlackItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:215280
+FileModTime:208882712
+NameArray:0,Mac,18,Verlag BlackItalic
+NameArray:0,Mac,4,Verlag Black Italic
+NameArray:0,Win,1,Verlag Black
+NameArray:0,Win,16,Verlag
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Verlag-Bold
+FamilyName:Verlag
+StyleName:Bold
+MenuName:Verlag Bold
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Verlag Bold
+WritingScript:Roman
+OutlineFileName:/Users/nuriagonzalezdeubieta/Desktop/Carpeta TIPO/Document fonts/Verlag-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:171688
+FileModTime:208881718
+NameArray:0,Mac,4,Verlag Bold
+NameArray:0,Win,1,Verlag Bold
+NameArray:0,Win,16,Verlag
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Verlag-BoldItalic
+FamilyName:Verlag
+StyleName:Bold Italic
+MenuName:Verlag Bold
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Verlag Bold Italic
+WritingScript:Roman
+OutlineFileName:/Users/nuriagonzalezdeubieta/Desktop/Carpeta TIPO/Document fonts/Verlag-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:184680
+FileModTime:208882718
+NameArray:0,Mac,18,Verlag BoldItalic
+NameArray:0,Mac,4,Verlag Bold Italic
+NameArray:0,Win,1,Verlag Bold
+NameArray:0,Win,16,Verlag
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Verlag-Book
+FamilyName:Verlag
+StyleName:Book
+MenuName:Verlag Book
+StyleBits:0
+WeightClass:325
+WidthClass:5
+AngleClass:0
+FullName:Verlag Book
+WritingScript:Roman
+OutlineFileName:/Users/nuriagonzalezdeubieta/Desktop/Carpeta TIPO/Document fonts/Verlag-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:165732
+FileModTime:208881724
+NameArray:0,Mac,4,Verlag Book
+NameArray:0,Win,1,Verlag Book
+NameArray:0,Win,16,Verlag
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Verlag-BookItalic
+FamilyName:Verlag
+StyleName:Book Italic
+MenuName:Verlag Book
+StyleBits:1
+WeightClass:325
+WidthClass:5
+AngleClass:1
+FullName:Verlag Book Italic
+WritingScript:Roman
+OutlineFileName:/Users/nuriagonzalezdeubieta/Desktop/Carpeta TIPO/Document fonts/Verlag-BookItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:211844
+FileModTime:208882724
+NameArray:0,Mac,18,Verlag BookItalic
+NameArray:0,Mac,4,Verlag Book Italic
+NameArray:0,Win,1,Verlag Book
+NameArray:0,Win,16,Verlag
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Verlag-Light
+FamilyName:Verlag
+StyleName:Light
+MenuName:Verlag Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Verlag Light
+WritingScript:Roman
+OutlineFileName:/Users/nuriagonzalezdeubieta/Desktop/Carpeta TIPO/Document fonts/Verlag-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:169960
+FileModTime:208881728
+NameArray:0,Mac,4,Verlag Light
+NameArray:0,Win,1,Verlag Light
+NameArray:0,Win,16,Verlag
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Verlag-LightItalic
+FamilyName:Verlag
+StyleName:Light Italic
+MenuName:Verlag Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Verlag Light Italic
+WritingScript:Roman
+OutlineFileName:/Users/nuriagonzalezdeubieta/Desktop/Carpeta TIPO/Document fonts/Verlag-LightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:183876
+FileModTime:208882730
+NameArray:0,Mac,18,Verlag LightItalic
+NameArray:0,Mac,4,Verlag Light Italic
+NameArray:0,Win,1,Verlag Light
+NameArray:0,Win,16,Verlag
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Verlag-XLight
+FamilyName:Verlag
+StyleName:Extra Light
+MenuName:Verlag XLight
+StyleBits:0
+WeightClass:275
+WidthClass:5
+AngleClass:0
+FullName:Verlag XLight
+WritingScript:Roman
+OutlineFileName:/Users/nuriagonzalezdeubieta/Desktop/Carpeta TIPO/Document fonts/Verlag-XLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:163884
+FileModTime:208881744
+NameArray:0,Mac,4,Verlag XLight
+NameArray:0,Win,1,Verlag XLight
+NameArray:0,Win,16,Verlag
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Verlag-XLightItalic
+FamilyName:Verlag
+StyleName:Extra Light Italic
+MenuName:Verlag XLight
+StyleBits:1
+WeightClass:275
+WidthClass:5
+AngleClass:1
+FullName:Verlag XLight Italic
+WritingScript:Roman
+OutlineFileName:/Users/nuriagonzalezdeubieta/Desktop/Carpeta TIPO/Document fonts/Verlag-XLightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:213364
+FileModTime:208882736
+NameArray:0,Mac,18,Verlag XLightItalic
+NameArray:0,Mac,4,Verlag XLight Italic
+NameArray:0,Win,1,Verlag XLight
+NameArray:0,Win,16,Verlag
+%EndFont
+
